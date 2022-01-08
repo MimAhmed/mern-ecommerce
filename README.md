@@ -1,2 +1,1 @@
-# react-my-blog
-Simple Blog Project With MERN
+#Ecommerce Using Mern
